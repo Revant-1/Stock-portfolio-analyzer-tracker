@@ -9,7 +9,7 @@ You can try the live demo [here](https://stock-portfolio-analyzer.streamlit.app/
 ## Features
 
 - Analyze your stock portfolio.
-- [Add more features here]
+  
 
 ## Technologies Used
 
