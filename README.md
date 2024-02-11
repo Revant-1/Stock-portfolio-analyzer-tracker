@@ -24,4 +24,4 @@ You can try the live demo [here](https://stock-portfolio-analyzer.streamlit.app/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/[username]/stock-portfolio-analyzer.git
+   git clone https://github.com/Revant-1/Stock-portfolio-analyzer-tracker.git
